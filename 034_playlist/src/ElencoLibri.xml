@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ElencoCanzoni>
+    <Canzone nome="mall" autore="fabio" anno="data 1"/>
+    <Canzone nome="pool" autore="marco" anno="data 2"/>
+</ElencoCanzoni>
