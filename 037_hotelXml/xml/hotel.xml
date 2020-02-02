@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="true"?>
+<hotel name ="acto">
+     <camera nome ="crm"> 
+            <letto>2</letto>
+            <bagno>si</bagno>
+            <vista>mare</vista>
+     </camera>
+</hotel>	
+	
